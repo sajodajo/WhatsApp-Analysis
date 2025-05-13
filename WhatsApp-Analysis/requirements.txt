@@ -1,0 +1,9 @@
+streamlit
+pandas
+whatsAppFunctions
+matplotlib.pyplot
+numpy
+plotly.graph_objects
+whatsAppFunctions
+tempfile
+plotly.express
